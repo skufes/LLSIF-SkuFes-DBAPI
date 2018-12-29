@@ -1,0 +1,8 @@
+{
+    "apps": [{
+        "name": "skufes-db-api",
+        "script": "src/index.js",
+        "watch": false,
+        "cron_restart": "5 * * * *"
+    }]
+}

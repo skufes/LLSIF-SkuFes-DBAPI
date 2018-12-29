@@ -1,0 +1,24 @@
+{
+  "name": "llsif-skufes-dbapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lovelive"
+  ],
+  "author": "Chazeon",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.3",
+    "jsonapi-server": "^3.0.0",
+    "jsonapi-store-relationaldb": "^1.2.8",
+    "knex": "^0.13.0",
+    "lodash": "^4.17.4",
+    "objection": "^0.8.1",
+    "sqlite3": "^3.1.8"
+  }
+}
